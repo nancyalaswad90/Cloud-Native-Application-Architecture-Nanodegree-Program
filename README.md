@@ -4,7 +4,7 @@
 
 
 
-> ## First Project 
+> ## First Project : `TechTrends Project` : where using the Python Flask framework &SQLite
 
 
 ### Background
