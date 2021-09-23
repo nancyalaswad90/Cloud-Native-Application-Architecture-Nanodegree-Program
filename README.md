@@ -6,7 +6,7 @@
 .
 
 
-> ## First Project : `TechTrends Project` : where using the Python Flask framework &SQLite
+> ## First Project : `TechTrends Project` : where using the Python Flask framework &  SQLite  & [Docker Docs](https://docs.docker.com/desktop/windows/wsl/)
 
 
 =========================================================================================
